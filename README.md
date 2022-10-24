@@ -30,7 +30,7 @@ Raymon Anthony Doane seem to not have been a populat runner as he received 3.1% 
 ![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.43.46%20PM.png)
 
 ##Challenge Overview
-In a world where election fraud has become a hot topic. I believe that having responsible method to analyze election results is crucial. 
+In a world where election fraud has become a hot topic, I believe that having responsible method to analyze election results is crucial. 
 the code presented below does just that. I belive this code can be ajuested to ran any election going foward in the country or other countries alike. Through a more or less refactoring of this code we can move foward with honest and fair elections. 
 ![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.52.10%20PM.png)
 ![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.52.24%20PM.png)
