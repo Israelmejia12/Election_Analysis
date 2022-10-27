@@ -24,11 +24,19 @@ A total of 369,711 votes were cast during this congressional election.
 
 ![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.43.40%20PM.png)
 
-Denver which had the largers number of voters, 30,055 was the most pupular state to win the election,as you can see in the image below. The county with the least number of tourn outs was Arapahoe which only had a 6.7% of of voters show up, (24,801).
+
+![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1a96c3b7ad16a904d558b552eff2103b8f4e67e5/Screen%20Shot%202022-10-26%20at%207.29.00%20PM.png)
+
+##Denver which had the largers number of voters, 306,055 or 82.8%, was the most pupular state to win the election,as you can see in the images below. The county with the least number of tourn outs was Arapahoe which only had a 6.7% of of voters show up, (24,801).
 -The Candidates were:
 Diana DeGette who won the election by a landslide of 73.8% of the vote which is (272,892 votes).
-!(Screen Shot 2022-10-23 at 9.43.56 PM.png)
-Charles Casper Stockham was behind Diana, but not close enought as he only won 23.0% (85,213 votes).
+
+
+![Line Graph](Screen Shot 2022-10-23 at 9.43.56 PM.png)
+
+![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1a96c3b7ad16a904d558b552eff2103b8f4e67e5/Screen%20Shot%202022-10-26%20at%207.29.10%20PM.png)
+
+##Charles Casper Stockham was behind Diana, but not close enought as he only won 23.0% (85,213 votes).
 Raymon Anthony Doane seem to not have been a populat runner as he received 3.1% (11,606 votes).
 
 ![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.43.46%20PM.png)
@@ -36,5 +44,6 @@ Raymon Anthony Doane seem to not have been a populat runner as he received 3.1% 
 ##Challenge Overview
 In a world where election fraud has become a hot topic. I believe that having responsible method to analyze election results is crucial. 
 the code presented below does just that. I belive this code can be ajuested to ran any election going foward in the country or other countries alike. Through a more or less refactoring of this code we can move foward with honest and fair elections. 
-![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.52.10%20PM.png)
-![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1cecec32665b5e8bd3c312d404fc75f22d7ce004/Screen%20Shot%202022-10-23%20at%209.52.24%20PM.png)
+![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1a96c3b7ad16a904d558b552eff2103b8f4e67e5/Screen%20Shot%202022-10-26%20at%207.29.36%20PM.png)
+![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1a96c3b7ad16a904d558b552eff2103b8f4e67e5/Screen%20Shot%202022-10-26%20at%207.31.12%20PM.png)
+![Line Graph](https://github.com/Israelmejia12/Election_Analysis/blob/1a96c3b7ad16a904d558b552eff2103b8f4e67e5/Screen%20Shot%202022-10-26%20at%207.31.31%20PM.png)
